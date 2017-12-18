@@ -1,6 +1,6 @@
 Inkscape icons- Theme eighty-eight
 
-![Image of Eighty-eight](https://github.com/higheredbob/inkscape-icons_eighty-eight/blob/master/-icons.svg%20-%20Inkscape_004.png)
+![Image of Eighty-eight](https://github.com/higheredbob/inkscape-icons_eighty-eight/blob/master/icons.svg%20-%20Inkscape_005.png)
 
 Material and Font Awesome based, mostly stuck with material as I was aiming to update 
 the base theme to as new as possible. 
